@@ -1,6 +1,6 @@
 
 
-<h2> Hey there! I'm Mayank.</h2>
+### Hey there! I'm Mayank.<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -10,7 +10,7 @@
 - 🤔 I’m looking for internships
  - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Your eyes blink around 20 times a minute. ..
+- ⚡ Fun fact: The first oranges weren’t orange ..
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
