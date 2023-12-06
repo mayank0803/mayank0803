@@ -6,8 +6,8 @@
 
 
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning React
-- 🤔 I’m looking for internships
+- 🌱 I’m currently working as SDET in AJIO
+- 🤔 I’m looking for better opportunity
  - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: The first oranges weren’t orange ..
